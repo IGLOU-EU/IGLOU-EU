@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to My GitHub Profile 👋
 
-<!--
-**IGLOU-EU/IGLOU-EU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IGLOU-EU)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello there! I'm a humble French coder, striving to write clean code amidst the swirling sea of my wandering thoughts.
+
+## Contact Me
+
+You can find me on:
+
+- [Mastodon](https://your-mastodon-instance/@your-mastodon-account)
+- [Matrix](https://matrix.to/#/@your-matrix-username)
+
+Feel free to reach out and connect!
