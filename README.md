@@ -6,8 +6,8 @@ Every repo here are mirror or local fork, to follow my stuff go [on gitlab](http
 
 You can find me on:
 
-- [Mastodon](https://your-mastodon-instance/@your-mastodon-account)
-- [Matrix](https://matrix.to/#/@your-matrix-username)
-- [Gitlab](https://gitlab.com/adrienK)
+- Mastodon [@norihiori@mastodon.social](https://mastodon.social/@norihiori))
+- Matrix [@norihiori:matrix.org](https://matrix.to/#/@norihiori)
+- Gitlab [adrienK](https://gitlab.com/adrienK)
 
 Feel free to reach out and connect!
